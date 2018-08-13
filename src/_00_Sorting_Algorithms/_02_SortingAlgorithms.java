@@ -12,8 +12,8 @@ import javax.swing.JOptionPane;
  * InsertionSorter			√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
  * QuickSorter				√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
  * MergeSorter				√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
- * HeapSorter				***^^^!!!||TEST||!!!^^^***
- * BogoSorter
+ * HeapSorter				√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
+ * BogoSorter				***^^^!!!||TEST||!!!^^^***
  */
 
 public class _02_SortingAlgorithms {
