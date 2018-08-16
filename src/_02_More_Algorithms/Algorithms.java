@@ -57,4 +57,21 @@ public class Algorithms {
 		}
 		return answer;
 	}
+	
+	public static double sortScores(List<Double> scores) {
+		for(int i = 0; i < scores.size(); i++) {
+			for(int j = i+1; j<scores.size(); j++) {
+				if(scores.get(i) > scores.get(j)) {
+					double temp = scores.get(i);
+					scores.get(i) = scores.get(j);
+					scores.get(j) = temp;
+				}
+				
+			}
+			
+		}
+		
+		
+	}
+	
 }
