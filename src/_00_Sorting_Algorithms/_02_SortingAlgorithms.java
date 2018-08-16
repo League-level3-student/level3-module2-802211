@@ -13,7 +13,7 @@ import javax.swing.JOptionPane;
  * QuickSorter				√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
  * MergeSorter				√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
  * HeapSorter				√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
- * BogoSorter				***^^^!!!||TEST||!!!^^^***
+ * BogoSorter				√√√//\\||¡!!!¡√√√DONE√√√¡!!!¡||//\\√√√
  */
 
 public class _02_SortingAlgorithms {
